@@ -46,3 +46,4 @@ function restParamaterFunction2(x, y) {
   return (x + y) * a.length;
 }
 console.log(restParamaterFunction2(1, 2, 'hello', true, 7));
+  
